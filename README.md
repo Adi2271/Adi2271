@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adi2271
 - 👀 I’m interested coding, tech stuff and I like to make friends.
-- 🌱 I’m currently learning HTML and C++, C.
+- 🌱 I’m currently learning C, HTML & Java.
 - 💞️ I’m looking to learn different coding languages.
 - 📫 How to reach me : discord : My id : 726279259680669806
 
