@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adi2271
-- 👀 I’m interested coding, tech stuff and I like to make friends.
-- 🌱 I’m currently learning C, HTML, Java & Python.
-- Eager to reach and try new stuff and explore things.
+- I'm Adi
+- Interested in coding, AI/ML, Data Science, CyberSecurity.
+- Currently learning C, HTML, Java & Python.
+- Eager to reach out, try new stuff & explore things.
   
 
 <!---
